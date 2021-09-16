@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1631788367,,"wq"
+|2,0,1631790403,,"wq"
 :q!
 |2,0,1631788349,,"q!"
 
@@ -27,22 +27,76 @@
 # Registers:
 
 # File marks:
-'0  2  403  ~/.ssh/authorized_keys
-|4,48,2,403,1631788367,"~/.ssh/authorized_keys"
-'1  1  403  ~/.ssh.au
-|4,49,1,403,1631788349,"~/.ssh.au"
+'0  2  18  ~/Dockerfile
+|4,48,2,18,1631790403,"~/Dockerfile"
+'1  21  60  ~/install.sh
+|4,49,21,60,1631789740,"~/install.sh"
+'2  2  403  ~/.ssh/authorized_keys
+|4,50,2,403,1631788367,"~/.ssh/authorized_keys"
+'3  1  403  ~/.ssh.au
+|4,51,1,403,1631788349,"~/.ssh.au"
 
 # Jumplist (newest first):
+-'  2  18  ~/Dockerfile
+|4,39,2,18,1631790403,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1631790365,"~/Dockerfile"
+-'  21  60  ~/install.sh
+|4,39,21,60,1631789740,"~/install.sh"
+-'  21  60  ~/install.sh
+|4,39,21,60,1631789740,"~/install.sh"
+-'  1  0  ~/install.sh
+|4,39,1,0,1631789680,"~/install.sh"
+-'  1  0  ~/install.sh
+|4,39,1,0,1631789680,"~/install.sh"
 -'  2  403  ~/.ssh/authorized_keys
 |4,39,2,403,1631788367,"~/.ssh/authorized_keys"
+-'  2  403  ~/.ssh/authorized_keys
+|4,39,2,403,1631788367,"~/.ssh/authorized_keys"
+-'  2  403  ~/.ssh/authorized_keys
+|4,39,2,403,1631788367,"~/.ssh/authorized_keys"
+-'  2  403  ~/.ssh/authorized_keys
+|4,39,2,403,1631788367,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1631788358,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1631788358,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1631788358,"~/.ssh/authorized_keys"
 -'  1  0  ~/.ssh/authorized_keys
 |4,39,1,0,1631788358,"~/.ssh/authorized_keys"
 -'  1  403  ~/.ssh.au
 |4,39,1,403,1631788349,"~/.ssh.au"
 -'  1  403  ~/.ssh.au
 |4,39,1,403,1631788349,"~/.ssh.au"
+-'  1  403  ~/.ssh.au
+|4,39,1,403,1631788349,"~/.ssh.au"
+-'  1  403  ~/.ssh.au
+|4,39,1,403,1631788349,"~/.ssh.au"
+-'  1  403  ~/.ssh.au
+|4,39,1,403,1631788349,"~/.ssh.au"
+-'  1  403  ~/.ssh.au
+|4,39,1,403,1631788349,"~/.ssh.au"
+-'  1  403  ~/.ssh.au
+|4,39,1,403,1631788349,"~/.ssh.au"
+-'  1  403  ~/.ssh.au
+|4,39,1,403,1631788349,"~/.ssh.au"
 
 # History of marks within files (newest to oldest):
+
+> ~/Dockerfile
+	*	1631790402	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> ~/install.sh
+	*	1631789739	0
+	"	21	60
+	^	21	61
+	.	21	60
+	+	21	60
 
 > ~/.ssh/authorized_keys
 	*	1631788365	0
